@@ -56,7 +56,11 @@ if Joshua == Danny
 else
 {
     print ("Still friends") }
-
+if case var Joshua + Danny = 20
+{
+    print("Niiiiiiice")
+    
+}
 //problem set 3
 
 var Thomas = true
